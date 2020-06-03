@@ -12,5 +12,7 @@ package mthree.helloworld2;
 public class NewClass {
       public static void main(String[] args) {
         System.out.println("Hello, World!, this is my first program");
+        System.out.println("My name is Ahmed");
+        System.out.println("This is Java");
     }
 }
